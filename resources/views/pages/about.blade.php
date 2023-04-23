@@ -77,42 +77,76 @@
             </div>
         </div>
     </section>
+
     <section data-bg-src="assets/img/bg/about-bg-5-1.jpg">
         <div class="container container-style1">
             <div class="row flex-row-reverse align-items-center gx-70">
-                <div class="col-lg-6 col-xl"><img src="assets/img/about/ab-7-1.jpg" alt="about image"></div>
+                <div class="col-lg-6 col-xl">
+                    <br>
+                    <ul>
+                        <li>
+                            Dans son programme d’accroissement de ses productions, GMC Sarl a planifié de mettre en
+                            service, en début de l’année 2024, sa seconde usine d’une grande capacité de la
+                            production de l’eau minérale Lachaï-roï à Lubumbashi en vue de faire face à la forte
+                            sollicitation de sa clientèle et cela grâce à l’accompagnement de FPI.
+                        </li>
+                        <li>
+                            GMC Sarl est également dans le domaine de publicité depuis 2009 et assure la location
+                            de ses panneaux publicitaires implantés dans les principales villes de la République
+                            démocratique du Congo (Kinshasa, Matadi, Boma, Mbuji-Mayi, Lubumbashi, Kolwezi,
+                            Fungurume, Kakanda, Kasumbalesa, Sakania, Goma, Bunia….).
+                        </li>
+                        <li>
+                            GMC Sarl est également dotée d’une imprimerie industrielle située à son siège social à
+                            Lubumbashi. GMC Sarl vous propose un service d’impression de qualité sur tous types de
+                            supports : des affiches sur bâches, T-shirts, polos, tasses, assiettes, broderies,
+                            drapeau, …..
+                            <br>
+                            Vous pouvez également passer, auprès de GMC Sarl, vos commande des documents de gestion
+                            tels que les carnets, facturiers, bons de commande, bons de livraison, des sorties
+                            magasins, bons de caisse, prospectus, des cachets, Etc…….
+                        </li>
+                    </ul>
+                </div>
                 <div class="col-lg-6 col-xl-auto wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="about-box2"><span class="sec-subtitle"><i class="fas fa-bring-forward"></i>Get best It solution 2022</span>
-                        <h2 class="sec-title3 h1">Inspiring Tech Needs for Business</h2>
-                        <p>Dynamically monetize web-enabled processes through client-based action items. Authoritatively
-                            grow goal is oriented markets through ompletely generate technically sound content without
-                            robust users.</p>
-                        <div
-                            class="row gx-0 align-items-center flex-row-reverse justify-content-end mt-sm-3 pt-sm-3 mb-30 pb-10">
-                            <div class="col-sm-auto"><p class="author-degi">Founder & CEO</p>
-                                <h3 class="h5 author-name">Adam Smith</h3></div>
-                            <div class="col-sm-auto">
-                                <div class="about-call">
-                                    <div class="about-call__icon"><i class="fas fa-phone-alt"></i></div>
-                                    <div class="media-body"><span
-                                            class="about-call__label">Call To Ask Any Queary</span>
-                                        <p class="about-call__number"><a href="tel:+25821562154">+(258) 2156 2154</a>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <a href="about.html" class="vs-btn">About Us<i class="far fa-long-arrow-right"></i></a></div>
+                    <div class="about-box2">
+                        <h2 class="sec-title3 h1">Description</h2>
+                        <p>
+                            Basée à Lubumbashi en République démocratique du Congo, la Société Groupe Manne Cachée Sarl,
+                            en sigle « GMC Sarl », créée en 2003 par Madame BAISOLE TAWELO Esther, est une société
+                            multisectorielle de droit congolais spécialisée dans les différents domaines dont les
+                            principaux sont:
+                        <ul>
+                            <li>
+                                Dès 2003, GMC Sarl a commencé à participer aux travaux de sous-traitance et à la
+                                livraison des diverses fournitures dans des sociétés.
+                            </li>
+                            <li>
+                                Dès 2008, elle s’est lancée dans les réalisations des travaux des infrastructures à
+                                l’aide des plusieurs contrats signés avec certaines sociétés, organismes et gouvernorat
+                                notamment la Coopération Technique Belge (CTB), la BRALIMA, l’UNOPS (Banque Mondiale),
+                                le Gouvernorat du Katanga, Celtel (Airtel)…et continue à évoluer dans ce domaine
+                                jusqu’en ce jour.
+                            </li>
+                            <li>
+                                Depuis 2021, GMC Sarl produit et livre de l’eau minérale Lachaï-roï en bouteille de
+                                500 ml, 750 ml, 1,5 l et des bidons de 20 L appréciée de tous, grâce à sa saveur
+                                agréable. Ladite production est faite à partir de son usine située à Lubumbashi.
+                            </li>
+                        </ul>
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
+
     <section class="space-top space-extra-bottom">
         <div class="container wow fadeInUp" data-wow-delay="0.2s">
             <div class="row justify-content-center text-center">
                 <div class="col-xl-6">
-                    <div class="title-area"><span class="sec-subtitle">Great Team Members</span>
-                        <h2 class="sec-title3 h1">We Have Expert Team</h2></div>
+                    <div class="title-area"><span class="sec-subtitle">Grands Membres de l'Equipe</span>
+                        <h2 class="sec-title3 h1">UNE EQUIPE D'EXPERTS</h2></div>
                 </div>
             </div>
             <div class="row vs-carousel" data-slide-show="3" data-md-slide-show="2">
@@ -121,80 +155,154 @@
                         <div class="team-img">
                             <div class="team-shape1"></div>
                             <div class="team-shape2"></div>
-                            <a href="team-details.html"><img src="assets/img/team/t-2-1.jpg" alt="image"></a>
-                            <div class="team-social"><a href="#"><i class="fab fa-facebook-f"></i></a> <a href="#"><i
-                                        class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a
-                                    href="#"><i class="fab fa-behance"></i></a> <a href="#"><i
-                                        class="fab fa-youtube"></i></a></div>
+                            <a><img src="assets/img/team/t-2-1.jpg" alt="image"></a>
+                            <div class="team-social">
+{{--                                <a href="#"><i class="fab fa-facebook-f"></i></a> <a href="#"><i--}}
+{{--                                        class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-instagram"></i></a>--}}
+{{--                                <a--}}
+{{--                                    href="#"><i class="fab fa-behance"></i></a> <a href="#"><i--}}
+{{--                                        class="fab fa-youtube"></i></a>--}}
+                            </div>
                         </div>
-                        <div class="team-content"><h3 class="team-title h5"><a class="text-inherit"
-                                                                               href="team-details.html">Grayson
-                                    Gabriel</a>
+                        <div class="team-content"><h3 class="team-title h5">
+                                <a class="text-inherit">
+                                    BAISOLE TAWELO Esther
+                                </a>
                             </h3>
-                            <p class="team-degi">Cheif Expert</p></div>
+{{--                            <p class="team-degi">Cheif Expert</p>--}}
+                        </div>
                     </div>
                 </div>
+
                 <div class="col-xl-4">
                     <div class="team-style2">
                         <div class="team-img">
                             <div class="team-shape1"></div>
                             <div class="team-shape2"></div>
-                            <a href="team-details.html"><img src="assets/img/team/t-2-2.jpg" alt="image"></a>
-                            <div class="team-social"><a href="#"><i class="fab fa-facebook-f"></i></a> <a href="#"><i
-                                        class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a
-                                    href="#"><i class="fab fa-behance"></i></a> <a href="#"><i
-                                        class="fab fa-youtube"></i></a></div>
+                            <a><img src="assets/img/team/t-2-2.jpg" alt="image"></a>
+                            <div class="team-social">
+                                {{--                                <a href="#"><i class="fab fa-facebook-f"></i></a> <a href="#"><i--}}
+                                {{--                                        class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-instagram"></i></a>--}}
+                                {{--                                <a--}}
+                                {{--                                    href="#"><i class="fab fa-behance"></i></a> <a href="#"><i--}}
+                                {{--                                        class="fab fa-youtube"></i></a>--}}
+                            </div>
                         </div>
-                        <div class="team-content"><h3 class="team-title h5"><a class="text-inherit"
-                                                                               href="team-details.html">Samuel
-                                    Thomas</a>
+                        <div class="team-content"><h3 class="team-title h5">
+                                <a class="text-inherit">
+                                    LOBANGA Harvey
+                                </a>
                             </h3>
-                            <p class="team-degi">Cheif Expert</p></div>
+{{--                            <p class="team-degi">Cheif Expert</p>--}}
+                        </div>
                     </div>
                 </div>
+
                 <div class="col-xl-4">
                     <div class="team-style2">
                         <div class="team-img">
                             <div class="team-shape1"></div>
                             <div class="team-shape2"></div>
-                            <a href="team-details.html"><img src="assets/img/team/t-2-3.jpg" alt="image"></a>
-                            <div class="team-social"><a href="#"><i class="fab fa-facebook-f"></i></a> <a href="#"><i
-                                        class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a
-                                    href="#"><i class="fab fa-behance"></i></a> <a href="#"><i
-                                        class="fab fa-youtube"></i></a></div>
+                            <a><img src="assets/img/team/t-2-3.jpg" alt="image"></a>
+                            <div class="team-social">
+                                {{--                                <a href="#"><i class="fab fa-facebook-f"></i></a> <a href="#"><i--}}
+                                {{--                                        class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-instagram"></i></a>--}}
+                                {{--                                <a--}}
+                                {{--                                    href="#"><i class="fab fa-behance"></i></a> <a href="#"><i--}}
+                                {{--                                        class="fab fa-youtube"></i></a>--}}
+                            </div>
                         </div>
-                        <div class="team-content"><h3 class="team-title h5"><a class="text-inherit"
-                                                                               href="team-details.html">William
-                                    Lucas</a>
+                        <div class="team-content"><h3 class="team-title h5">
+                                <a class="text-inherit">
+                                    UCAMA Gracia
+                                </a>
                             </h3>
-                            <p class="team-degi">Cheif Expert</p></div>
+{{--                            <p class="team-degi">Cheif Expert</p>--}}
+                        </div>
                     </div>
                 </div>
+
+            </div>
+
+            <div class="row vs-carousel" data-slide-show="3" data-md-slide-show="2">
+
                 <div class="col-xl-4">
                     <div class="team-style2">
                         <div class="team-img">
                             <div class="team-shape1"></div>
                             <div class="team-shape2"></div>
-                            <a href="team-details.html"><img src="assets/img/team/t-2-4.jpg" alt="image"></a>
-                            <div class="team-social"><a href="#"><i class="fab fa-facebook-f"></i></a> <a href="#"><i
-                                        class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-instagram"></i></a>
-                                <a
-                                    href="#"><i class="fab fa-behance"></i></a> <a href="#"><i
-                                        class="fab fa-youtube"></i></a></div>
+                            <a><img src="assets/img/team/t-2-4.jpg" alt="image"></a>
+                            <div class="team-social">
+                                {{--                                <a href="#"><i class="fab fa-facebook-f"></i></a> <a href="#"><i--}}
+                                {{--                                        class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-instagram"></i></a>--}}
+                                {{--                                <a--}}
+                                {{--                                    href="#"><i class="fab fa-behance"></i></a> <a href="#"><i--}}
+                                {{--                                        class="fab fa-youtube"></i></a>--}}
+                            </div>
                         </div>
-                        <div class="team-content"><h3 class="team-title h5"><a class="text-inherit"
-                                                                               href="team-details.html">Daniel
-                                    Matthew</a>
+                        <div class="team-content"><h3 class="team-title h5">
+                                <a class="text-inherit">
+                                    MUNGUNUTI Divine
+                                </a>
                             </h3>
-                            <p class="team-degi">Cheif Expert</p></div>
+{{--                            <p class="team-degi">Cheif Expert</p>--}}
+                        </div>
                     </div>
                 </div>
+
+                <div class="col-xl-4">
+                    <div class="team-style2">
+                        <div class="team-img">
+                            <div class="team-shape1"></div>
+                            <div class="team-shape2"></div>
+                            <a><img src="assets/img/team/t-2-5.jpg" alt="image"></a>
+                            <div class="team-social">
+                                {{--                                <a href="#"><i class="fab fa-facebook-f"></i></a> <a href="#"><i--}}
+                                {{--                                        class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-instagram"></i></a>--}}
+                                {{--                                <a--}}
+                                {{--                                    href="#"><i class="fab fa-behance"></i></a> <a href="#"><i--}}
+                                {{--                                        class="fab fa-youtube"></i></a>--}}
+                            </div>
+                        </div>
+                        <div class="team-content"><h3 class="team-title h5">
+                                <a class="text-inherit">
+                                    ALIRACH Eunicia
+                                </a>
+                            </h3>
+{{--                            <p class="team-degi">Cheif Expert</p>--}}
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-xl-4">
+                    <div class="team-style2">
+                        <div class="team-img">
+                            <div class="team-shape1"></div>
+                            <div class="team-shape2"></div>
+                            <a><img src="assets/img/team/t-2-6.jpg" alt="image"></a>
+                            <div class="team-social">
+                                {{--                                <a href="#"><i class="fab fa-facebook-f"></i></a> <a href="#"><i--}}
+                                {{--                                        class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-instagram"></i></a>--}}
+                                {{--                                <a--}}
+                                {{--                                    href="#"><i class="fab fa-behance"></i></a> <a href="#"><i--}}
+                                {{--                                        class="fab fa-youtube"></i></a>--}}
+                            </div>
+                        </div>
+                        <div class="team-content"><h3 class="team-title h5">
+                                <a class="text-inherit">
+                                    WATHMABER Eliel
+                                </a>
+                            </h3>
+{{--                            <p class="team-degi">Cheif Expert</p>--}}
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>
+
+
     <section class="space-top space-extra-bottom" data-bg-src="assets/img/bg/testi-bg-4-1.jpg">
         <div class="container wow fadeInUp" data-wow-delay="0.2s">
             <div class="row justify-content-between align-items-center">
