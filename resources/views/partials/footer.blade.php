@@ -73,8 +73,10 @@
                                 </tbody>
                             </table>
                         </div>
-                        <div class="footer-number"><h4 class="title h6">Need Help? Contact Number</h4><a
-                                href="tel:+248215621532" class="info">+(248) 2156-21532</a></div>
+                        <div class="footer-number"><h4 class="title h6">Need Help? Contact Number</h4>
+                            <a class="info" href="tel:+243811497046">+243811497046</a> /
+                            <a class="info" href="tel:+243972043209">+243972043209</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -82,8 +84,9 @@
     </div>
     <div class="copyright-wrap">
         <div class="container"><p class="copyright-text">Copyright <i class="fal fa-copyright"></i> 2022 <a
-                    class="text-white" href="index.html">TechBiz</a>. All rights reserved by <a class="text-white"
-                                                                                                href="https://themeforest.net/user/vecuro_themes">Vecuro</a>.
+                    class="text-white" href="{{route('home')}}">Groupe Manne Cachée</a>. All rights reserved by
+                <a class="text-white"
+                   href="https://domiyns.com">domiyns</a>.
             </p></div>
     </div>
 </footer>
