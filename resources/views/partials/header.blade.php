@@ -7,7 +7,7 @@
         <div class="vs-mobile-menu">
             <ul>
                 <li><a href="{{route('home')}}">Accueil</a></li>
-                <li><a href="">A Propos de nous</a></li>
+                <li><a href="{{route('about')}}">A Propos de nous</a></li>
                 <li><a href="">Services</a></li>
                 <li><a href="">Contactez-nous</a></li>
             </ul>
@@ -106,7 +106,7 @@
                                 <ul>
                                     <li><a href="{{route('home')}}">Accueil</a>
                                     </li>
-                                    <li><a href="">A propos de nous</a></li>
+                                    <li><a href="{{route('about')}}">A propos de nous</a></li>
                                     <li><a href="">Services</a></li>
                                     <li><a href="">Contactez-nous</a></li>
                                 </ul>
