@@ -111,8 +111,8 @@
                         <div class="award-box">
                             <div class="award-box__shape"></div>
                             <div class="award-box__icon"><i class="fal fa-award"></i></div>
-                            <div class="media-body"><p class="award-box__number">100+</p>
-                                <div class="award-box__text">Awards we won</div>
+                            <div class="media-body"><p class="award-box__number">20+</p>
+                                <div class="award-box__text">Recompenses</div>
                             </div>
                         </div>
                     </div>
