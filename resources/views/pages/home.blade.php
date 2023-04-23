@@ -5,7 +5,8 @@
         <div class="vs-hero-carousel" data-height="980" data-container="1900" data-slidertype="responsive">
             <div class="ls-slide" data-ls="duration:12000; transition2d:5; kenburnszoom:in; kenburnsscale:1.1;">
                 <img
-                    width="1920" height="980" src="{{asset('assets/img/hero/hero-2-1.jpg')}}" class="ls-bg" alt="slider-bg">
+                    width="1920" height="980" src="{{asset('assets/img/hero/hero-2-1.jpg')}}" class="ls-bg"
+                    alt="slider-bg">
                 <img
                     width="664" height="522" src="{{asset('assets/img/hero/hero-shape-2-2.png')}}"
                     class="ls-l ls-hide-phone ls-img-layer d-hd-none" alt="image"
@@ -58,10 +59,13 @@
                             <div class="feature-style2">
                                 <div class="feature-icon"><img src="assets/img/icon/fe-2-2.png" alt="Features"></div>
                                 <h3 class="feature-title h5"><a class="text-inherit">
-                                    Production d'eau minerale
+                                        Production d'eau minerale
                                     </a></h3>
-                                <p class="feature-text">Seize magnetic before visa alignment network wireless whereas
-                                    frictionless</p><a href="" class="link-btn">Read Details<i
+                                <p class="feature-text">
+                                    Nous produisons et mettons à la disposition de tout âge (bébé, enfants, adultes,
+                                    veillards) de la population une eau pure, et de qualité du nom de LACHAI-ROI dans
+                                    tous ces formats...
+                                </p><a href="" class="link-btn">Lire Plus<i
                                         class="far fa-arrow-right"></i></a></div>
                         </div>
                         <div class="col-xl-4">
@@ -70,8 +74,10 @@
                                 <h3 class="feature-title h5"><a class="text-inherit" href="">
                                         Imprimerie
                                     </a></h3>
-                                <p class="feature-text">Seize magnetic before visa alignment network wireless whereas
-                                    frictionless</p><a href="" class="link-btn">Read Details<i
+                                <p class="feature-text">
+                                    Nous mettons à votre service des techniques d'impressions de qualité sur tous
+                                    supports avec un personnel qualifiés et des matériels de nouvelle technologie...
+                                </p><a href="" class="link-btn">Lire Plus<i
                                         class="far fa-arrow-right"></i></a></div>
                         </div>
                         <div class="col-xl-4">
@@ -80,8 +86,11 @@
                                 <h3 class="feature-title h5"><a class="text-inherit" href="">
                                         Publicité
                                     </a></h3>
-                                <p class="feature-text">Seize magnetic before visa alignment network wireless whereas
-                                    frictionless</p><a href="service-details.html" class="link-btn">Read Details<i
+                                <p class="feature-text">
+                                    Nous offrons un service publicitaire d'affichage dans les différentes villes de la
+                                    R.D Congo tels que Kinshasa, Lubumbashi, Kasumbalesa, Sakania, Kolwezi, Kakanda,
+                                    Fungurume, Goma, Mbuji-Mayi, Matadi, Boma, Bunia, etc...
+                                </p><a href="service-details.html" class="link-btn">Lire Plus<i
                                         class="far fa-arrow-right"></i></a></div>
                         </div>
                         <div class="col-xl-4">
