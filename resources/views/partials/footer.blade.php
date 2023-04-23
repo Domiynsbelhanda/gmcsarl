@@ -37,9 +37,11 @@
                 </div>
                 <div class="col-lg-4 col-xl-auto order-1 order-lg-2">
                     <div class="widget footer-widget"><h3 class="widget_title">A Propos de nous</h3>
-                        <div class="vs-widget-about"><p class="footer-text">Continually evolve worldwide vortals rather
-                                than process centric human capital.wide benefits via quality niches provide access without
-                                plagiarize collaborative alignments after</p>
+                        <div class="vs-widget-about"><p class="footer-text">
+                                Basée à Lubumbashi en République démocratique du Congo, la Société Groupe Manne Cachée Sarl, en
+                                sigle « GMC Sarl », créée en 2003 par Madame BAISOLE TAWELO Esther, est une société
+                                multisectorielle de droit congolais spécialisée dans les différents domaines.
+                            </p>
                         </div>
                     </div>
                 </div>
