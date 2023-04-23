@@ -24,11 +24,11 @@
                 <h1 style="top:370px; left:50%; text-align:center; font-weight:700; background-size:inherit; background-position:inherit; font-size:72px; color:#ffffff; font-family:Exo; width:1000px;"
                     class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
                     data-ls="offsetxin:-200; durationin:1500; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint; position:relative;">
-                    Excellent IT services for</h1>
+                    Le meilleur accompagnement</h1>
                 <h1 style="top:455px; left:50%; text-align:center; font-weight:700; background-size:inherit; background-position:inherit; font-size:72px; font-family:Exo; color:#ffffff; text-transform:none; background-color:transparent; background-repeat:no-repeat; cursor:auto; width:1000px;"
                     class="ls-l ls-hide-tablet ls-hide-phone ls-text-layer"
                     data-ls="offsetxin:-200; durationin:1500; delayin:200; easingin:easeOutQuint; offsetxout:-100; durationout:1500; easingout:easeOutQuint;">
-                    your success</h1>
+                    pour votre devéloppement.</h1>
                 <div
                     style="top:595px; left:50%; text-align:center; font-weight:700; background-size:inherit; background-position:inherit; font-size:24px; width:1000px;"
                     class="ls-l ls-hide-tablet ls-hide-phone ls-html-layer"

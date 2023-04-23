@@ -1,7 +1,8 @@
 <div class="vs-menu-wrapper">
     <div class="vs-menu-area text-center">
         <button class="vs-menu-toggle"><i class="fal fa-times"></i></button>
-        <div class="mobile-logo"><a href="{{route('home')}}"><img src="assets/img/logo.png" alt="Manne Cachée" class="logo"></a>
+        <div class="mobile-logo"><a href="{{route('home')}}"><img src="assets/img/logo.png" alt="Manne Cachée"
+                                                                  class="logo"></a>
         </div>
         <div class="vs-mobile-menu">
             <ul>
@@ -19,7 +20,8 @@
         <button class="closeButton sideMenuCls"><i class="far fa-times"></i></button>
         <div class="widget">
             <div class="vs-widget-about">
-                <div class="footer-logo"><a href="{{route('home')}}"><img src="assets/img/logo.png" alt="Manne Cachée" class="logo"></a>
+                <div class="footer-logo"><a href="{{route('home')}}"><img src="assets/img/logo.png" alt="Manne Cachée"
+                                                                          class="logo"></a>
                 </div>
                 <div class="footer-social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -48,9 +50,9 @@
         <div class="widget"><h3 class="widget_title">Office Maps</h3>
             <div class="footer-map">
                 <iframe title="office location map"
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d163720.11965853968!2d8.496481908353967!3d50.121347879150306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47bd096f477096c5%3A0x422435029b0c600!2sFrankfurt%2C%20Germany!5e0!3m2!1sen!2sbd!4v1651732317319!5m2!1sen!2sbd"
-                        width="200" height="180" style="border:0;" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15631.755657084703!2d27.4503946!3d-11.6277033!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19723b6f83d2499d%3A0xc87670e4a408d8b6!2sGroupe%20Manne%20Cach%C3%A9e%20SARL!5e0!3m2!1sfr!2scd!4v1682267327876!5m2!1sfr!2scd"
+                    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </div>
     </div>
@@ -65,11 +67,12 @@
                     <div class="header-links">
                         <ul>
                             <li><i class="far fa-phone-alt"></i>
-                                <a href="tel:+243811497046">+243811497046</a> /
+                                <a href="tel:+243811497046">+243811497046</a> <br>
+                                <i class="far fa-phone-alt"></i>
                                 <a href="tel:+243972043209">+243972043209</a>
                             </li>
-                            <li class="d-none d-xxl-inline-block"><i class="far fa-map-marker-alt"></i>121 King St.
-                                Melbourne VIC 3000, Australia
+                            <li class="d-none d-xxl-inline-block"><i class="far fa-map-marker-alt"></i>
+                                50, Avenue Manne Cachée, Golf TSHAMALALE, Lubumbashi
                             </li>
                             <li><i class="far fa-envelope"></i><a
                                     href="mailto:mannecachee2007@yahoo.fr">mannecachee2007@yahoo.fr</a></li>
@@ -82,7 +85,7 @@
                                 class="fab fa-facebook-f"></i></a>
                         <a href="#"><i class="fab fa-twitter"></i></a>
                         <a
-                            href="#"><i class="fab fa-instagram"></i></a>
+                            href="https://www.instagram.com/lachairoi.gmc/"><i class="fab fa-instagram"></i></a>
                     </div>
                 </div>
             </div>
@@ -95,7 +98,8 @@
                     <div class="row align-items-center justify-content-between">
                         <div class="col-auto">
                             <div class="logo-style1"><a href="{{route('home')}}"><img src="assets/img/logo-white.png"
-                                                                               alt="Manne Cachée" class="logo"></a></div>
+                                                                                      alt="Manne Cachée"
+                                                                                      class="logo"></a></div>
                         </div>
                         <div class="col-auto">
                             <nav class="main-menu menu-style2 d-none d-lg-block">
