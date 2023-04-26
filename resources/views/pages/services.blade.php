@@ -118,14 +118,16 @@
         <div class="container wow fadeInUp" data-wow-delay="0.2s">
             <div class="row justify-content-between">
                 <div class="col-lg-auto text-center text-lg-start">
-                    <div class="title-area"><span class="sec-subtitle"><i class="fas fa-bring-forward"></i>Our Best Review’s</span>
-                        <h2 class="sec-title3 h1">Customer’s Feedback</h2></div>
+                    <div class="title-area"><span class="sec-subtitle"><i class="fas fa-bring-forward"></i>
+                            NOS MEILLEURS COMMENTAIRES
+                        </span>
+                        <h2 class="sec-title3 h1">Feedback de nos clients</h2></div>
                 </div>
                 <div class="col-auto d-none d-lg-block">
                     <div class="sec-btns">
-                        <button class="vs-btn style4" data-slick-prev="#testislide1"><i class="far fa-arrow-left"></i>Prev
+                        <button class="vs-btn style4" data-slick-prev="#testislide1"><i class="far fa-arrow-left"></i>Précédent
                         </button>
-                        <button class="vs-btn style4" data-slick-next="#testislide1">Next<i
+                        <button class="vs-btn style4" data-slick-next="#testislide1">Suivant<i
                                 class="far fa-arrow-right"></i>
                         </button>
                     </div>
@@ -135,39 +137,49 @@
                 <div class="col-xl-4">
                     <div class="testi-style1">
                         <div class="testi-icon"><i class="fal fa-quote-right"></i></div>
-                        <p class="testi-text">“Contrary to popular belief, Lorem Ipsum is not simply random text over
-                            2000
-                            years old. Richard McClintock”</p>
-                        <h3 class="testi-name h6">David Smith</h3>
-                        <div class="testi-degi">SEO Customer</div>
+                        <p class="testi-text">
+                            “Je suis très satisfaite de l’eau minérale que vous produisez. Elle est pure,
+                            rafraîchissante et délicieuse. Elle m’apporte les minéraux dont j’ai besoin pour ma santé.
+                            Merci pour votre travail de qualité !”
+                        </p>
+                        <h3 class="testi-name h6">Bijou Kabeya</h3>
+                        <div class="testi-degi">Katanga Minéralia</div>
                     </div>
                 </div>
                 <div class="col-xl-4">
                     <div class="testi-style1">
                         <div class="testi-icon"><i class="fal fa-quote-right"></i></div>
-                        <p class="testi-text">“Engineer resource maximizing whereas human high quality scenarios via
-                            client
-                            incentivize next generatio”</p>
-                        <h3 class="testi-name h6">Floki Gustaf</h3>
-                        <div class="testi-degi">UI Customer</div>
+                        <p class="testi-text">
+                            “Votre agence de communication est un atout majeur pour mon projet. Vous avez créé une
+                            identité visuelle unique, un logo accrocheur et un slogan percutant. Vous avez su me
+                            convaincre, me surprendre et me fidéliser. Vous êtes des professionnels talentueux !”
+                        </p>
+                        <h3 class="testi-name h6">Nélius NGOMA</h3>
+                        <div class="testi-degi">DG Comia</div>
                     </div>
                 </div>
                 <div class="col-xl-4">
                     <div class="testi-style1">
                         <div class="testi-icon"><i class="fal fa-quote-right"></i></div>
-                        <p class="testi-text">“There are many variations of passages of Lorem Ipsum available, but the
-                            majority have suffered alteration”</p>
-                        <h3 class="testi-name h6">Jesper Karl</h3>
-                        <div class="testi-degi">SEO Customer</div>
+                        <p class="testi-text">
+                            “Je tiens à vous remercier pour l’impression de mes flyers. Ils sont magnifiques, conformes
+                            à ma demande et livrés dans les délais. Vous avez su respecter mes consignes et me
+                            conseiller au mieux. Je recommande vivement votre service !”
+                        </p>
+                        <h3 class="testi-name h6">Jesper KAZADI</h3>
+                        <div class="testi-degi">SEO KOLORA</div>
                     </div>
                 </div>
                 <div class="col-xl-4">
                     <div class="testi-style1">
                         <div class="testi-icon"><i class="fal fa-quote-right"></i></div>
-                        <p class="testi-text">“Latin words, combined with a handful of model sentence structures, to
-                            generate Lorem Ipsum which looks reasonable”</p>
-                        <h3 class="testi-name h6">Luis Luka</h3>
-                        <div class="testi-degi">Dev Customer</div>
+                        <p class="testi-text">
+                            “e suis ravie de la campagne marketing que vous avez conçue pour mon entreprise. Vous avez
+                            su cerner mes besoins, analyser mon marché et proposer des solutions adaptées. Vous avez été
+                            à l’écoute, disponibles et efficaces. Vous avez boosté ma visibilité et ma notoriété !”
+                        </p>
+                        <h3 class="testi-name h6">Julie MWAMBA</h3>
+                        <div class="testi-degi">Aqua Congo</div>
                     </div>
                 </div>
             </div>
