@@ -9,7 +9,7 @@
                 <li><a href="{{route('home')}}">Accueil</a></li>
                 <li><a href="{{route('about')}}">A Propos de nous</a></li>
                 <li><a href="{{route('services')}}">Services</a></li>
-                <li><a href="">Contactez-nous</a></li>
+                <li><a href="{{route('contact')}}">Contactez-nous</a></li>
             </ul>
         </div>
     </div>
@@ -108,7 +108,7 @@
                                     </li>
                                     <li><a href="{{route('about')}}">A propos de nous</a></li>
                                     <li><a href="{{route('services')}}">Services</a></li>
-                                    <li><a href="">Contactez-nous</a></li>
+                                    <li><a href="{{route('contact')}}">Contactez-nous</a></li>
                                 </ul>
                             </nav>
                             <button class="vs-menu-toggle d-inline-block d-lg-none"><i class="fal fa-bars"></i></button>
