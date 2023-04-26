@@ -64,9 +64,13 @@
         <div class="container">
             <div class="row text-center text-lg-start align-items-center justify-content-between">
                 <div class="col-lg-auto"><span
-                        class="sec-subtitle text-white">We are here to answer your questions 24/7</span>
-                    <h2 class="h1 sec-title cta-title1">Need A Consultation?</h2></div>
-                <div class="col-lg-auto"><a href="contact.html" class="vs-btn">Get A Quote<i
+                        class="sec-subtitle text-white">
+                        NOUS SOMMES LÀ POUR RÉPONDRE À VOS QUESTIONS 24 HEURES SUR 24, 7 JOURS SUR 7
+                    </span>
+                    <h2 class="h1 sec-title cta-title1">
+                        BESOIN D'UNE CONSULTATION ?
+                    </h2></div>
+                <div class="col-lg-auto"><a href="tel:+243811497046" class="vs-btn">CONTACTEZ-NOUS<i
                             class="far fa-arrow-right"></i></a>
                 </div>
             </div>
