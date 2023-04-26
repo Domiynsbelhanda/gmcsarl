@@ -149,7 +149,7 @@
                         <h2 class="sec-title3 h1">UNE EQUIPE D'EXPERTS</h2></div>
                 </div>
             </div>
-            <div class="row vs-carousel" data-slide-show="3" data-md-slide-show="2">
+            <div class="row">
                 <div class="col-xl-4">
                     <div class="team-style2">
                         <div class="team-img">
@@ -224,7 +224,7 @@
 
             </div>
 
-            <div class="row vs-carousel" data-slide-show="3" data-md-slide-show="2">
+            <div class="row">
 
                 <div class="col-xl-4">
                     <div class="team-style2">
