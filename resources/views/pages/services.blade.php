@@ -21,55 +21,40 @@
                     <div class="service-style1 layout2">
                         <div class="service-bg" data-bg-src="assets/img/bg/sr-box-bg-1.jpg"></div>
                         <div class="service-icon"><img src="assets/img/icon/sr-icon-1-1.png" alt="Features"></div>
-                        <h3 class="service-title h5"><a href="service-details.html">Cloud Services</a></h3>
-                        <p class="service-text">Deliver plug commerce with dynamic is expertise. leading edge products with
-                            business models</p><a href="service-details.html" class="vs-btn style3">Read More<i
-                                class="far fa-long-arrow-right"></i></a></div>
+                        <h3 class="service-title h5"><a>Production Eau Minerale</a></h3>
+                        <p class="service-text">
+                            LACHAI-ROI est une eau de table filtrée selon les normes strictes de l'OMS. Elle possède une
+                            pureté exceptionnelle, une fraicheur continue.
+                            <br>
+                            LACHAI-ROI est une très bonne eau pour les bébés et adultes. Il peut être consommée à
+                            n'importe quelle circonstance.
+                        </p>
+                    </div>
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <div class="service-style1 layout2">
                         <div class="service-bg" data-bg-src="assets/img/bg/sr-box-bg-1.jpg"></div>
                         <div class="service-icon"><img src="assets/img/icon/sr-icon-1-2.png" alt="Features"></div>
-                        <h3 class="service-title h5"><a href="service-details.html">UI Development</a></h3>
-                        <p class="service-text">Deliver plug commerce with dynamic is expertise. leading edge products with
-                            business models</p><a href="service-details.html" class="vs-btn style3">Read More<i
-                                class="far fa-long-arrow-right"></i></a></div>
+                        <h3 class="service-title h5"><a>Imprimerie</a></h3>
+                        <p class="service-text">
+                            Nous imprimons à l'échelle de bureau et industriel, nous imprimons sur tous supports et tout
+                            format tels que brochure, flyers, affiche, catalogue, depliants, carte de visite,
+                            calendrier, facture, magazine, carte d'invitation, etc...
+                        </p>
+                    </div>
                 </div>
                 <div class="col-md-6 col-lg-4">
                     <div class="service-style1 layout2">
                         <div class="service-bg" data-bg-src="assets/img/bg/sr-box-bg-1.jpg"></div>
                         <div class="service-icon"><img src="assets/img/icon/sr-icon-1-3.png" alt="Features"></div>
-                        <h3 class="service-title h5"><a href="service-details.html">Digital Marketing</a></h3>
-                        <p class="service-text">Deliver plug commerce with dynamic is expertise. leading edge products with
-                            business models</p><a href="service-details.html" class="vs-btn style3">Read More<i
-                                class="far fa-long-arrow-right"></i></a></div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="service-style1 layout2">
-                        <div class="service-bg" data-bg-src="assets/img/bg/sr-box-bg-1.jpg"></div>
-                        <div class="service-icon"><img src="assets/img/icon/sr-icon-1-4.png" alt="Features"></div>
-                        <h3 class="service-title h5"><a href="service-details.html">Web Development</a></h3>
-                        <p class="service-text">Deliver plug commerce with dynamic is expertise. leading edge products with
-                            business models</p><a href="service-details.html" class="vs-btn style3">Read More<i
-                                class="far fa-long-arrow-right"></i></a></div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="service-style1 layout2">
-                        <div class="service-bg" data-bg-src="assets/img/bg/sr-box-bg-1.jpg"></div>
-                        <div class="service-icon"><img src="assets/img/icon/sr-icon-1-5.png" alt="Features"></div>
-                        <h3 class="service-title h5"><a href="service-details.html">Software Services</a></h3>
-                        <p class="service-text">Deliver plug commerce with dynamic is expertise. leading edge products with
-                            business models</p><a href="service-details.html" class="vs-btn style3">Read More<i
-                                class="far fa-long-arrow-right"></i></a></div>
-                </div>
-                <div class="col-md-6 col-lg-4">
-                    <div class="service-style1 layout2">
-                        <div class="service-bg" data-bg-src="assets/img/bg/sr-box-bg-1.jpg"></div>
-                        <div class="service-icon"><img src="assets/img/icon/sr-icon-1-6.png" alt="Features"></div>
-                        <h3 class="service-title h5"><a href="service-details.html">Machine Learning</a></h3>
-                        <p class="service-text">Deliver plug commerce with dynamic is expertise. leading edge products with
-                            business models</p><a href="service-details.html" class="vs-btn style3">Read More<i
-                                class="far fa-long-arrow-right"></i></a></div>
+                        <h3 class="service-title h5"><a>Publicité et Marketing</a></h3>
+                        <p class="service-text">
+                            Nous offrons des services de communication, marketing et publicité. Nous vous offrons des
+                            services d'affichage grand format sur les différentes villes de la République Démocratique
+                            du Congo tels que Kinshasa, Lubumbashi, Kasumbalesa, Sakania, Kolwezi, Kakanda,
+                            Fungurume, Goma, Mbuji-Mayi, Matadi, Boma, Bunia, etc...
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -81,7 +66,8 @@
                 <div class="col-lg-auto"><span
                         class="sec-subtitle text-white">We are here to answer your questions 24/7</span>
                     <h2 class="h1 sec-title cta-title1">Need A Consultation?</h2></div>
-                <div class="col-lg-auto"><a href="contact.html" class="vs-btn">Get A Quote<i class="far fa-arrow-right"></i></a>
+                <div class="col-lg-auto"><a href="contact.html" class="vs-btn">Get A Quote<i
+                            class="far fa-arrow-right"></i></a>
                 </div>
             </div>
         </div>
@@ -132,7 +118,8 @@
                     <div class="sec-btns">
                         <button class="vs-btn style4" data-slick-prev="#testislide1"><i class="far fa-arrow-left"></i>Prev
                         </button>
-                        <button class="vs-btn style4" data-slick-next="#testislide1">Next<i class="far fa-arrow-right"></i>
+                        <button class="vs-btn style4" data-slick-next="#testislide1">Next<i
+                                class="far fa-arrow-right"></i>
                         </button>
                     </div>
                 </div>
@@ -141,7 +128,8 @@
                 <div class="col-xl-4">
                     <div class="testi-style1">
                         <div class="testi-icon"><i class="fal fa-quote-right"></i></div>
-                        <p class="testi-text">“Contrary to popular belief, Lorem Ipsum is not simply random text over 2000
+                        <p class="testi-text">“Contrary to popular belief, Lorem Ipsum is not simply random text over
+                            2000
                             years old. Richard McClintock”</p>
                         <h3 class="testi-name h6">David Smith</h3>
                         <div class="testi-degi">SEO Customer</div>
@@ -150,7 +138,8 @@
                 <div class="col-xl-4">
                     <div class="testi-style1">
                         <div class="testi-icon"><i class="fal fa-quote-right"></i></div>
-                        <p class="testi-text">“Engineer resource maximizing whereas human high quality scenarios via client
+                        <p class="testi-text">“Engineer resource maximizing whereas human high quality scenarios via
+                            client
                             incentivize next generatio”</p>
                         <h3 class="testi-name h6">Floki Gustaf</h3>
                         <div class="testi-degi">UI Customer</div>
