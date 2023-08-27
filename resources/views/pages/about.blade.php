@@ -82,58 +82,49 @@
         <div class="container container-style1">
             <div class="row flex-row-reverse align-items-center gx-70">
                 <div class="col-lg-6 col-xl">
-                    <br>
-                    <ul>
-                        <li>
-                            Dans son programme d’accroissement de ses productions, GMC Sarl a planifié de mettre en
-                            service, en début de l’année 2024, sa seconde usine d’une grande capacité de la
-                            production de l’eau minérale Lachaï-roï à Lubumbashi en vue de faire face à la forte
-                            sollicitation de sa clientèle et cela grâce à l’accompagnement de FPI.
-                        </li>
-                        <li>
-                            GMC Sarl est également dans le domaine de publicité depuis 2009 et assure la location
-                            de ses panneaux publicitaires implantés dans les principales villes de la République
-                            démocratique du Congo (Kinshasa, Matadi, Boma, Mbuji-Mayi, Lubumbashi, Kolwezi,
-                            Fungurume, Kakanda, Kasumbalesa, Sakania, Goma, Bunia….).
-                        </li>
-                        <li>
-                            GMC Sarl est également dotée d’une imprimerie industrielle située à son siège social à
-                            Lubumbashi. GMC Sarl vous propose un service d’impression de qualité sur tous types de
-                            supports : des affiches sur bâches, T-shirts, polos, tasses, assiettes, broderies,
-                            drapeau, …..
-                            <br>
-                            Vous pouvez également passer, auprès de GMC Sarl, vos commande des documents de gestion
-                            tels que les carnets, facturiers, bons de commande, bons de livraison, des sorties
-                            magasins, bons de caisse, prospectus, des cachets, Etc…….
-                        </li>
-                    </ul>
+                    <p>
+                        L'entreprise produit de l'eau purifiée LACHAI-ROI. « LACHAI-ROI » est une
+                        marque renommée dans le secteur de l’eau dans la province du HautKatanga, et elle est en
+                        train de devenir l’eau potable pure la plus fiable avec la
+                        certification industrielle pour la qualité de l’eau.
+                        <br>
+                        <br>
+                        Nous produisons et mettons à disposition de tous les âges (bébés, enfants,
+                        adultes et personnes âgées) une eau pure et de qualité nommée LACHAI-ROI
+                        dans tous ses formats, 500ml, 750ml, 1,5L, 5L, 10L et 20L.
+                        <br>
+                        <br>
+                        L'entreprise, grâce à sa stratégie de marketing intelligent, est fière de
+                        sécuriser des milliers de clients et a obtenu avec succès le label OCC
+                        (Certificat de l'Office Congolais de Contrôle).
+                        <br>
+                        <br>
+                        En plus de produire de l'eau purifiée LACHAI-ROI, la société a le plan
+                        d'expansion pour augmenter la capacité de sa production et démarrer
+                        également la production de boissons gazeuses en bouteille plastique et
+                        canette pour ces produits à l'avenir.
+                        <br>
+                        <br>
+                        Notre eau est de qualité et la pureté est garantie.
+
+                    </p>
                 </div>
                 <div class="col-lg-6 col-xl-auto wow fadeInUp" data-wow-delay="0.2s">
                     <div class="about-box2">
                         <h2 class="sec-title3 h1">Description</h2>
                         <p>
-                            Basée à Lubumbashi en République démocratique du Congo, la Société Groupe Manne Cachée Sarl,
-                            en sigle « GMC Sarl », créée en 2003 par Madame BAISOLE TAWELO Esther, est une société
-                            multisectorielle de droit congolais spécialisée dans les différents domaines dont les
-                            principaux sont:
-                        <ul>
-                            <li>
-                                Dès 2003, GMC Sarl a commencé à participer aux travaux de sous-traitance et à la
-                                livraison des diverses fournitures dans des sociétés.
-                            </li>
-                            <li>
-                                Dès 2008, elle s’est lancée dans les réalisations des travaux des infrastructures à
-                                l’aide des plusieurs contrats signés avec certaines sociétés, organismes et gouvernorat
-                                notamment la Coopération Technique Belge (CTB), la BRALIMA, l’UNOPS (Banque Mondiale),
-                                le Gouvernorat du Katanga, Celtel (Airtel)…et continue à évoluer dans ce domaine
-                                jusqu’en ce jour.
-                            </li>
-                            <li>
-                                Depuis 2021, GMC Sarl produit et livre de l’eau minérale Lachaï-roï en bouteille de
-                                500 ml, 750 ml, 1,5 l et des bidons de 20 L appréciée de tous, grâce à sa saveur
-                                agréable. Ladite production est faite à partir de son usine située à Lubumbashi.
-                            </li>
-                        </ul>
+                            GROUPE MANNE CACHEE SARL est une société dédiée et dynamique,
+                            enregistrée sous la loi de la RD Congo, son numéro d'enregistrement est
+                            CD/LSH/RCCM/20-B-00927, ID. NAT.: 05-F4300-N70294F, Numéro d’Impôt:
+                            A2044946C.
+                            <br>
+                            <br>
+                            Basée à Lubumbashi en République Démocratique du Congo, GROUPE
+                            MANNE CACHEE SARL, en sigle « GMC SARL », est une entreprise
+                            familiale, qui a été formellement créée en 2003 par Mme BAISOLE TAWELO
+                            Esther, est une société multisectorielle de droit Congolais, spécialisé dans
+                            différents domaines: l'eau purifiée mise en bouteille, la publicité, l'imprimerie,
+                            le génie civil et la fourniture.
                         </p>
                     </div>
                 </div>
@@ -157,11 +148,11 @@
                             <div class="team-shape2"></div>
                             <a><img src="assets/img/team/t-2-1.jpg" alt="image"></a>
                             <div class="team-social">
-{{--                                <a href="#"><i class="fab fa-facebook-f"></i></a> <a href="#"><i--}}
-{{--                                        class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-instagram"></i></a>--}}
-{{--                                <a--}}
-{{--                                    href="#"><i class="fab fa-behance"></i></a> <a href="#"><i--}}
-{{--                                        class="fab fa-youtube"></i></a>--}}
+                                {{--                                <a href="#"><i class="fab fa-facebook-f"></i></a> <a href="#"><i--}}
+                                {{--                                        class="fab fa-twitter"></i></a> <a href="#"><i class="fab fa-instagram"></i></a>--}}
+                                {{--                                <a--}}
+                                {{--                                    href="#"><i class="fab fa-behance"></i></a> <a href="#"><i--}}
+                                {{--                                        class="fab fa-youtube"></i></a>--}}
                             </div>
                         </div>
                         <div class="team-content"><h3 class="team-title h5">
@@ -169,7 +160,7 @@
                                     BAISOLE TAWELO Esther
                                 </a>
                             </h3>
-{{--                            <p class="team-degi">Cheif Expert</p>--}}
+                            {{--                            <p class="team-degi">Cheif Expert</p>--}}
                         </div>
                     </div>
                 </div>
@@ -193,7 +184,7 @@
                                     LOBANGA Harvey
                                 </a>
                             </h3>
-{{--                            <p class="team-degi">Cheif Expert</p>--}}
+                            {{--                            <p class="team-degi">Cheif Expert</p>--}}
                         </div>
                     </div>
                 </div>
@@ -217,7 +208,7 @@
                                     UCAMA Gracia
                                 </a>
                             </h3>
-{{--                            <p class="team-degi">Cheif Expert</p>--}}
+                            {{--                            <p class="team-degi">Cheif Expert</p>--}}
                         </div>
                     </div>
                 </div>
@@ -245,7 +236,7 @@
                                     MUNGUNUTI Divine
                                 </a>
                             </h3>
-{{--                            <p class="team-degi">Cheif Expert</p>--}}
+                            {{--                            <p class="team-degi">Cheif Expert</p>--}}
                         </div>
                     </div>
                 </div>
@@ -269,7 +260,7 @@
                                     ALIRACH Eunicia
                                 </a>
                             </h3>
-{{--                            <p class="team-degi">Cheif Expert</p>--}}
+                            {{--                            <p class="team-degi">Cheif Expert</p>--}}
                         </div>
                     </div>
                 </div>
@@ -293,7 +284,7 @@
                                     WATHMABER Eliel
                                 </a>
                             </h3>
-{{--                            <p class="team-degi">Cheif Expert</p>--}}
+                            {{--                            <p class="team-degi">Cheif Expert</p>--}}
                         </div>
                     </div>
                 </div>
