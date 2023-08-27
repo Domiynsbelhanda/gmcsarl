@@ -33,6 +33,7 @@
                                         <p class="contact-box__info">
                                             <a href="tel:+243811497046"> +243811497046</a>
                                             <a href="tel:+243972043209">+243972043209</a>
+                                            <a href="mailto:gmnc.sarl@gmail.com">gmnc.sarl@gmail.com</a>
                                             <a href="mailto:mannecachee2007@yahoo.fr">mannecachee2007@yahoo.fr</a>
                                         </p>
                                     </div>

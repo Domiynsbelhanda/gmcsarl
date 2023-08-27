@@ -74,8 +74,15 @@
                             <li class="d-none d-xxl-inline-block"><i class="far fa-map-marker-alt"></i>
                                 50, Avenue Manne Cachée, Golf TSHAMALALE, Lubumbashi
                             </li>
-                            <li><i class="far fa-envelope"></i><a
-                                    href="mailto:mannecachee2007@yahoo.fr">mannecachee2007@yahoo.fr</a></li>
+                            <li>
+                                <i class="far fa-envelope"></i>
+                                <a
+                                    href="mailto:gmnc.sarl@gmail.com">gmnc.sarl@gmail.com</a>
+                                |
+                                <i class="far fa-envelope"></i>
+                                <a
+                                    href="mailto:mannecachee2007@yahoo.fr">mannecachee2007@yahoo.fr</a>
+                            </li>
                         </ul>
                     </div>
                 </div>
