@@ -78,7 +78,7 @@
                                 <i class="far fa-envelope"></i>
                                 <a
                                     href="mailto:gmnc.sarl@gmail.com">gmnc.sarl@gmail.com</a>
-                                |
+                                <br>
                                 <i class="far fa-envelope"></i>
                                 <a
                                     href="mailto:mannecachee2007@yahoo.fr">mannecachee2007@yahoo.fr</a>
